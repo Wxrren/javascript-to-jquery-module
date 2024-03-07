@@ -28,3 +28,9 @@ $("img:last");
 
 // Get all elements that have an attribute of `href`
 $("[href]")
+
+$("p").css("background-colour");
+"rgba(0, 0, 0, 0,)"
+$("p").css("font-family");
+"roboto, sans-serif"
+$("li").css("color", "red");
